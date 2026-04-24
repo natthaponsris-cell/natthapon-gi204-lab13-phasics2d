@@ -60,12 +60,12 @@
         "*.asset": "yaml",
         "*.meta": "yaml",
         "*.prefab": "yaml",
-        "*.unity": "yaml",
+        "*.unity": "yaml"
     },
     "explorer.fileNesting.enabled": true,
     "explorer.fileNesting.patterns": {
         "*.sln": "*.csproj",
         "*.slnx": "*.csproj"
     },
-    "dotnet.defaultSolution": "Natthapon_Lab13_2DPhysics.slnx"
+    "dotnet.defaultSolution": "natthapon-gi204-lab13-phasics2d.slnx"
 }
